@@ -47,6 +47,8 @@ Evaluation benchmarks:
    Example prompt:  
    > “Apply a Closing operation using a circular structuring element with a kernel size of 5 to the segmented sky.”
 
+**DALL-E will produce the results natively**
+
 7. **Evaluate the resulting segmentations.**  
    Select the image that produces the highest IoU. There should be a measurable improvement from the original—e.g., sky IoU increasing from `0.8763` to `0.8931`.
 
