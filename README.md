@@ -11,6 +11,8 @@ Evaluation benchmarks:
 - **DALL·E 3** (used for generative segmentation): [DALL·E 3 by OpenAI](https://openai.com/index/dall-e-3/)
 - mIoU benchmarks code are found within the HRNet & GSCNN repository
 
+- All images used for this testing are in the "images" folder. 
+
 > ⚠️ **Note:** The free version of DALL·E 3 has a limited number of image generations per day. For consistent and high-quality results, it is recommended to upgrade to GPT Plus.
 
 ---
